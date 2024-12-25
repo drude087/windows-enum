@@ -1,11 +1,10 @@
-
 # PowerShell System Information Enumeration Script
 
 ## Overview
 
-This PowerShell script is designed to access all the information that the current user has access to on a Windows system. It collects various details related to the system, users, processes, network configuration, and more. 
+This PowerShell script is designed to access all the information that the current user has access to on a Windows system. It collects various details related to the system, users, processes, network configuration, and more.
 
-In the future, the script will be updated to identify privilege escalation methods and to gather additional data when the script is run with administrative privileges.
+The script was created using online resources and assistance from ChatGPT, and it is intended to gather information that the current user can access. In future versions, the script will be updated to identify privilege escalation methods and gather additional data when executed with administrative privileges.
 
 ## Key Features
 
@@ -30,12 +29,12 @@ The script will be enhanced in future versions to:
 ## Instructions
 
 1. **Download the Script**  
-   Save the script as a `.ps1` file, e.g., `Enum.ps1`.
+   Save the script as a `.ps1` file, e.g., `SystemInfoEnumeration.ps1`.
 
 2. **Run the Script**  
    To run the script, open PowerShell and execute it by running:
    ```powershell
-   .\Enum.ps1
+   .\SystemInfoEnumeration.ps1
    ```
 
 3. **Access the Output**  

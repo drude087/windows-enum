@@ -29,12 +29,12 @@ The script will be enhanced in future versions to:
 ## Instructions
 
 1. **Download the Script**  
-   Save the script as a `.ps1` file, e.g., `SystemInfoEnumeration.ps1`.
+   Save the script as a `.ps1` file, e.g., `Enum.ps1`.
 
 2. **Run the Script**  
    To run the script, open PowerShell and execute it by running:
    ```powershell
-   .\SystemInfoEnumeration.ps1
+   .\Enum.ps1
    ```
 
 3. **Access the Output**  
